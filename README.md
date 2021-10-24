@@ -34,6 +34,7 @@
     文本生成评价评价任务说明（详细）.docx
 
 **补充信息**
+
     我们将图像文件存放在百度网盘中，供您参考使用。
     链接：https://pan.baidu.com/s/1NshfWcLOaOrCV52_Z9dqYA 
     提取码：7aqf
