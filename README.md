@@ -37,4 +37,10 @@
 
     我们将图像文件存放在百度网盘中，供您参考使用。
     链接：https://pan.baidu.com/s/1NshfWcLOaOrCV52_Z9dqYA 
-    提取码：7aqf
+    提取码：7aqf   
+    
+**更新**   
+   
+    任务所需的测试集图片，请查阅以下链接：
+    链接：https://pan.baidu.com/s/1Nz8bdVr-U6eicgMbeW2Vhg 
+    提取码：qer8
