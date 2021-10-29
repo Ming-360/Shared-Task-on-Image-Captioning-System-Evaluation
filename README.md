@@ -40,7 +40,12 @@
     提取码：7aqf   
     
 **更新**   
-   
+    
+    本次更新了任务所需的测试数据，包含以下文件：
+    - test_caption.txt
+    - test_autocap.txt
+    - test_humanjudgments.txt
+    
     任务所需的测试集图片，请查阅以下链接：
     链接：https://pan.baidu.com/s/1Nz8bdVr-U6eicgMbeW2Vhg 
     提取码：qer8
