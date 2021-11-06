@@ -49,3 +49,8 @@
     任务所需的测试集图片，请查阅以下链接：
     链接：https://pan.baidu.com/s/1Nz8bdVr-U6eicgMbeW2Vhg 
     提取码：qer8
+
+**更新**
+    关于第一届自然语言生成与智能写作大会延期召开通知
+    详情请关注一下链接：
+    https://mp.weixin.qq.com/s/lbI49DTu7xwKLI4v2yROJg
