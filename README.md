@@ -54,3 +54,8 @@
     关于第一届自然语言生成与智能写作大会延期召开通知   
     详情请关注一下链接：  
     https://mp.weixin.qq.com/s/lbI49DTu7xwKLI4v2yROJg   
+    
+**更新**  
+![aa3a65aab7e366308f21097f6a1124d](https://user-images.githubusercontent.com/74816565/141335557-8eecbb4b-9879-46d9-8abe-86e32e478703.jpg)  
+
+
